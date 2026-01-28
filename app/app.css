@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(38, 168, 228);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  transition: all 0.35s;
+}
+
+h1:hover{
+color: black;
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.imagen{
+  display:flex;
+  justify-content: center;
+  
+}
